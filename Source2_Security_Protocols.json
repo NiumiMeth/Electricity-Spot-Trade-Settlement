@@ -1,0 +1,32 @@
+[
+    {
+        "security_id":1,
+        "security_level":"Low",
+        "encryption_method":"AES",
+        "zt_authentication":0
+    },
+    {
+        "security_id":2,
+        "security_level":"Low",
+        "encryption_method":"RSA",
+        "zt_authentication":0
+    },
+    {
+        "security_id":3,
+        "security_level":"Medium",
+        "encryption_method":"AES",
+        "zt_authentication":1
+    },
+    {
+        "security_id":4,
+        "security_level":"High",
+        "encryption_method":"TDKE",
+        "zt_authentication":1
+    },
+    {
+        "security_id":5,
+        "security_level":"Medium",
+        "encryption_method":"RSA",
+        "zt_authentication":1
+    }
+]

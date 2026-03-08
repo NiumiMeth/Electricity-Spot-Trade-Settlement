@@ -1,0 +1,5 @@
+source_id,source_type,carbon_tax_rate
+SRC_01,Solar PV,0.0
+SRC_02,Onshore Wind,0.0
+SRC_03,Natural Gas,15.5
+SRC_04,Coal,35.0
